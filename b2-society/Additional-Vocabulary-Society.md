@@ -69,3 +69,40 @@
 
 40. **Privacy** – The right to keep personal information from being shared without permission  
     **конфиденциальность** – Право на сохранение личной информации без её разглашения без разрешения.
+
+---
+
+#### Social Behavior and Development
+41. **Civic engagement** – Participation in activities that improve the community or society  
+    **гражданская активность** – Участие в деятельности, которая улучшает сообщество или общество.
+
+42. **Gentrification** – The process of improving an area so that it attracts wealthier residents, often displacing poorer ones  
+    **гентрификация** – Процесс улучшения района, который привлекает более богатых жителей, часто вытесняя бедных.
+
+43. **Altruism** – Selfless concern for the well-being of others  
+    **альтруизм** – Бескорыстная забота о благополучии других.
+
+44. **Humanitarian aid** – Help given to people in need, especially during crises  
+    **гуманитарная помощь** – Помощь, оказываемая людям в нужде, особенно во время кризисов.
+
+45. **Social mobility** – The ability to move between different social classes  
+    **социальная мобильность** – Способность переходить между различными социальными классами.
+
+---
+
+#### Laws and Governance
+46. **Legislation** – Laws created by a government  
+    **законодательство** – Законы, созданные правительством.
+
+47. **Corruption** – Dishonest or illegal behavior, especially by people in power  
+    **коррупция** – Нечестное или незаконное поведение, особенно со стороны людей во власти.
+
+48. **Accountability** – The responsibility to explain and take responsibility for actions  
+    **подотчетность** – Ответственность за объяснение и принятие ответственности за свои действия.
+
+49. **Referendum** – A public vote on a specific issue  
+    **референдум** – Общественное голосование по конкретному вопросу.
+
+50. **Sanctions** – Penalties or restrictions imposed on a country or individual  
+    **санкции** – Наказания или ограничения, наложенные на страну или человека.
+
