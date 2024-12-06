@@ -1,4 +1,4 @@
-### **Linguistics vs. Pseudolinguistics (Complete Comparison in B2 English and Russian)**
+### **Linguistics vs. Pseudolinguistics (B2 English and Russian)**
 
 ---
 
@@ -16,23 +16,27 @@
 
 1. **Phonetics and Phonology / Фонетика и фонология**  
    - **English**: Study of sounds and sound systems in language.  
+     **Example**: "Why does 'cat' sound different from 'bat'?"  
    - **Russian**: Изучение звуков и звуковых систем в языке.  
-   **Example/Пример**: "Why does 'cat' sound different from 'bat'?"
+     **Пример**: "Почему 'cat' звучит иначе, чем 'bat'?"
 
 2. **Syntax / Синтаксис**  
    - **English**: Study of how sentences are structured.  
+     **Example**: "Why is 'She is reading a book' correct but not 'Book a is reading she'?"  
    - **Russian**: Изучение того, как строятся предложения.  
-   **Example/Пример**: "Why is 'She is reading a book' correct but not 'Book a is reading she'?"
+     **Пример**: "Почему 'She is reading a book' правильно, а 'Book a is reading she' нет?"
 
 3. **Morphology / Морфология**  
    - **English**: Study of how words are formed.  
+     **Example**: "How does 'un-' + 'happy' form 'unhappy'?"  
    - **Russian**: Изучение того, как образуются слова.  
-   **Example/Пример**: "How does 'un-' + 'happy' form 'unhappy'?"
+     **Пример**: "Как 'un-' + 'happy' образуют 'unhappy'?"
 
 4. **Semantics and Pragmatics / Семантика и прагматика**  
    - **English**: Study of meaning and context in language.  
+     **Example**: "What does 'break a leg' mean in different situations?"  
    - **Russian**: Изучение значения и контекста в языке.  
-   **Example/Пример**: "What does 'break a leg' mean in different situations?"
+     **Пример**: "Что означает 'break a leg' в разных ситуациях?"
 
 ---
 
@@ -50,18 +54,21 @@
 
 1. **Bias and Subjectivity / Предвзятость и субъективность**  
    - **English**: Promotes nationalist or ideological claims about languages.  
+     **Example**: "Claiming that one nation's language is more 'logical' than others."  
    - **Russian**: Продвигает националистические или идеологические утверждения о языках.  
-   **Example/Пример**: "Claiming that one nation's language is more 'logical' than others."
+     **Пример**: "Утверждение, что язык одной нации более 'логичен', чем другие."
 
 2. **Cherry-Picking Evidence / Избирательный подход к доказательствам**  
    - **English**: Selects data that fits preconceived ideas and ignores contradictory evidence.  
+     **Example**: "Using only favorable examples to argue that a language is 'ancient.'"  
    - **Russian**: Выбирает данные, которые подтверждают предвзятые идеи, игнорируя противоречащие доказательства.  
-   **Example/Пример**: "Using only favorable examples to argue that a language is 'ancient.'"
+     **Пример**: "Использование только удобных примеров для утверждения, что язык является 'древним'."
 
 3. **Lack of Peer Review / Отсутствие научной проверки**  
    - **English**: Claims are not scientifically tested or reviewed by experts.  
+     **Example**: "Publishing theories about a 'universal language' without evidence."  
    - **Russian**: Утверждения не проходят научную проверку или рецензирование экспертами.  
-   **Example/Пример**: "Publishing theories about a 'universal language' without evidence."
+     **Пример**: "Публикация теорий о 'универсальном языке' без доказательств."
 
 ---
 
