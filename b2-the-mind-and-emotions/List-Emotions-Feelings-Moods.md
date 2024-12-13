@@ -1,4 +1,4 @@
-### **Emotions, Feelings, and Moods: Combined List**
+### **Emotions, Feelings, and Moods: Comprehensive List**
 
 ---
 
@@ -26,23 +26,39 @@
 
 1. **Happiness / Счастье**
    - **English**: A strong emotion of joy or contentment.  
-   - **Russian**: Сильная эмоция радости или удовлетворения.
+     **Example**: "She felt happiness when she reunited with her family."  
+   - **Russian**: Сильная эмоция радости или удовлетворения.  
+     **Пример**: "Она почувствовала счастье, когда снова встретилась с семьёй."
 
-2. **Optimism / Оптимизм (Mood)**
+2. **Love / Любовь**
+   - **English**: A deep emotional connection or care for someone, often involving affection and commitment.  
+     **Example**: "His love for his children motivates him to do his best every day."  
+   - **Russian**: Глубокая эмоциональная привязанность или забота о ком-либо, часто включающая привязанность и преданность.  
+     **Пример**: "Его любовь к детям мотивирует его каждый день стараться."
+
+3. **Optimism / Оптимизм (Mood)**
    - **English**: A hopeful and positive state of mind about the future.  
-   - **Russian**: Надеждное и позитивное состояние ума по поводу будущего.
+     **Example**: "She remained optimistic despite the challenges she faced."  
+   - **Russian**: Надеждное и позитивное состояние ума по поводу будущего.  
+     **Пример**: "Она оставалась оптимистичной, несмотря на трудности, с которыми столкнулась."
 
-3. **Gratitude / Благодарность**
+4. **Gratitude / Благодарность**
    - **English**: A feeling of thankfulness and appreciation.  
-   - **Russian**: Чувство признательности и благодарности.
+     **Example**: "He expressed gratitude for his team’s hard work."  
+   - **Russian**: Чувство признательности и благодарности.  
+     **Пример**: "Он выразил благодарность за усердную работу своей команды."
 
-4. **Calm / Спокойствие (Mood)**
-   - **English**: A peaceful state of being free from stress or worry.  
-   - **Russian**: Мирное состояние, свободное от стресса или беспокойства.
+5. **Affection / Привязанность**
+   - **English**: A gentle feeling of love or liking for someone, often shown through kind actions.  
+     **Example**: "She showed her affection by helping her friend when they were sick."  
+   - **Russian**: Мягкое чувство любви или симпатии к кому-либо, часто выражаемое добрыми поступками.  
+     **Пример**: "Она выразила свою привязанность, помогая другу во время болезни."
 
-5. **Excitement / Волнение**
+6. **Excitement / Волнение**
    - **English**: A strong feeling of eagerness or anticipation for something positive.  
-   - **Russian**: Сильное чувство предвкушения или энтузиазма.
+     **Example**: "The excitement before the concert was almost unbearable."  
+   - **Russian**: Сильное чувство предвкушения или энтузиазма.  
+     **Пример**: "Волнение перед концертом было почти невыносимым."
 
 ---
 
@@ -50,58 +66,94 @@
 
 1. **Anger / Гнев**
    - **English**: A strong emotion of displeasure or hostility.  
-   - **Russian**: Сильная эмоция неудовольствия или враждебности.
+     **Example**: "His anger grew when he realized the mistake was deliberate."  
+   - **Russian**: Сильная эмоция неудовольствия или враждебности.  
+     **Пример**: "Его гнев усилился, когда он понял, что ошибка была преднамеренной."
 
 2. **Fear / Страх**
    - **English**: An emotion caused by the perception of danger or threat.  
-   - **Russian**: Эмоция, вызванная восприятием опасности или угрозы.
+     **Example**: "Her fear of heights prevented her from climbing the mountain."  
+   - **Russian**: Эмоция, вызванная восприятием опасности или угрозы.  
+     **Пример**: "Её страх высоты не позволил ей взобраться на гору."
 
-3. **Frustration / Раздосадованность (Feeling and Mood)**
-   - **English**: A feeling of annoyance due to difficulty or delay.  
-   - **Russian**: Чувство раздражения из-за трудностей или задержек.
-
-4. **Sadness / Грусть**
+3. **Sadness / Грусть**
    - **English**: A feeling of sorrow or unhappiness.  
-   - **Russian**: Чувство печали или несчастья.
+     **Example**: "He felt sadness when his best friend moved to another country."  
+   - **Russian**: Чувство печали или несчастья.  
+     **Пример**: "Он почувствовал грусть, когда его лучший друг переехал в другую страну."
+
+4. **Guilt / Вина**
+   - **English**: A feeling of regret for doing something wrong.  
+     **Example**: "She felt guilt for forgetting her friend's birthday."  
+   - **Russian**: Чувство сожаления за неправильный поступок.  
+     **Пример**: "Она почувствовала вину за то, что забыла день рождения подруги."
 
 5. **Loneliness / Одиночество (Mood)**
    - **English**: A mood of feeling isolated or disconnected from others.  
-   - **Russian**: Настроение изоляции или отсутствия связи с другими.
+     **Example**: "He felt loneliness after moving to a new city without friends."  
+   - **Russian**: Настроение изоляции или отсутствия связи с другими.  
+     **Пример**: "Он почувствовал одиночество после переезда в новый город без друзей."
+
+6. **Frustration / Раздосадованность (Feeling and Mood)**
+   - **English**: A feeling of annoyance caused by difficulties or delays.  
+     **Example**: "Her frustration grew as the project faced more delays."  
+   - **Russian**: Чувство раздражения из-за трудностей или задержек.  
+     **Пример**: "Её разочарование росло, когда проект столкнулся с новыми задержками."
 
 ---
 
-#### **Neutral or Mixed Emotions, Feelings, and Moods / Нейтральные или смешанные эмоции, чувства и настроения**
+#### **Complex or Mixed Emotions and Feelings / Сложные или смешанные эмоции и чувства**
 
-1. **Confusion / Замешательство (Feeling)**
-   - **English**: A state of uncertainty or lack of understanding.  
-   - **Russian**: Состояние неуверенности или непонимания.
+1. **Infatuation / Влюбленность**
+   - **English**: Intense but short-lived admiration or passion for someone.  
+     **Example**: "His infatuation with her lasted only a few weeks."  
+   - **Russian**: Интенсивное, но кратковременное восхищение или страсть к кому-то.  
+     **Пример**: "Его влюбленность в неё длилась всего несколько недель."
 
-2. **Curiosity / Любопытство**
-   - **English**: A feeling of wanting to know or learn more about something.  
-   - **Russian**: Чувство желания узнать или изучить что-то больше.
+2. **Lust / Вожделение**
+   - **English**: A strong sexual desire for someone, often without emotional connection.  
+     **Example**: "He realized his feelings were more about lust than love."  
+   - **Russian**: Сильное сексуальное желание к кому-либо, часто без эмоциональной связи.  
+     **Пример**: "Он понял, что его чувства больше о вожделении, чем о любви."
 
-3. **Anticipation / Ожидание**
-   - **English**: A feeling of excitement or nervousness about something that will happen.  
-   - **Russian**: Чувство волнения или нервозности из-за предстоящего события.
+3. **Obsession / Одержимость**
+   - **English**: An unhealthy fixation on someone or something.  
+     **Example**: "Her obsession with perfection caused her stress."  
+   - **Russian**: Нездоровая сосредоточенность на ком-либо или чем-либо.  
+     **Пример**: "Её одержимость совершенством вызывала у неё стресс."
+---
 
-4. **Boredom / Скука (Mood)**
-   - **English**: A mood of being uninterested or having nothing to do.  
-   - **Russian**: Настроение незаинтересованности или отсутствия занятий.
-
-5. **Relief / Облегчение**
-   - **English**: A feeling of relaxation after a difficult situation ends.  
-   - **Russian**: Чувство расслабления после завершения сложной ситуации.
+### **Comparison: Love vs. Related Emotions**
+| **Emotion/Feeling**       | **Key Aspect (English)**                                     | **Key Aspect (Russian)**                                     |
+|----------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| **Love**                   | Deep emotional connection and care.                         | Глубокая эмоциональная связь и забота.                      |
+| **Infatuation**            | Intense but short-lived admiration or passion.              | Интенсивное, но кратковременное восхищение или страсть.      |
+| **Lust**                   | Strong sexual desire, often without emotional connection.   | Сильное сексуальное желание, часто без эмоциональной связи. |
+| **Compassion**             | Concern and care for someone in pain or distress.           | Забота и беспокойство о ком-то в боли или беде.             |
+| **Intimacy**               | Closeness and trust in a relationship.                      | Близость и доверие в отношениях.                            |
 
 ---
 
-### **Key Differences Between Moods, Emotions, and Feelings / Основные различия между настроениями, эмоциями и чувствами**
+#### **1. Love**
 
-#### **English**
-1. **Emotions**: Short-term, automatic responses to stimuli.  
-2. **Feelings**: Conscious interpretations of emotions, shaped by personal context.  
-3. **Moods**: Long-lasting emotional states, not always tied to a specific event.
+- **B2 English**:  
+  Love is a deep emotional connection, care, and affection for someone or something. It can take many forms, such as romantic love, familial love, or friendship. Love often involves a desire to support, protect, and spend time with the person you care about.  
+  **Example**: "She feels love for her best friend because they have always been there for each other."  
 
-#### **Russian**
-1. **Эмоции**: Краткосрочные, автоматические реакции на раздражители.  
-2. **Чувства**: Осознанные интерпретации эмоций, формируемые личным контекстом.  
-3. **Настроения**: Длительные эмоциональные состояния, не всегда связанные с конкретным событием.
+- **Russian**:  
+  Любовь – это глубокая эмоциональная связь, забота и привязанность к кому-либо или чему-либо. Она может быть разной: романтическая любовь, любовь к семье или дружба. Любовь часто включает желание поддерживать, защищать и проводить время с тем, кто вам дорог.  
+  **Пример**: "Она чувствует любовь к своей лучшей подруге, потому что они всегда поддерживали друг друга."
+
+---
+
+#### **2. Sexual Attraction**
+
+- **B2 English**:  
+  Sexual attraction is a feeling of being physically or emotionally drawn to someone in a way that involves romantic or sexual desire. It can be based on physical appearance, personality, chemistry, or emotional connection. This is often one aspect of romantic relationships but does not necessarily mean love.  
+  **Example**: "He felt a strong sexual attraction toward her when they first met."  
+
+- **Russian**:  
+  Сексуальное влечение – это чувство физического или эмоционального притяжения к кому-либо, связанное с романтическим или сексуальным желанием. Оно может быть основано на внешности, личности, химии или эмоциональной связи. Это часто часть романтических отношений, но не всегда означает любовь.  
+  **Пример**: "Он почувствовал сильное сексуальное влечение к ней, когда они впервые встретились."
+
+---
