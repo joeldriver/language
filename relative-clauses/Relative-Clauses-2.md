@@ -1,6 +1,3 @@
-Yes! In addition to **who, which,** and **that**, there are several other **relative pronouns** and **relative adverbs** used in relative clauses.
-
----
 
 ### **1. Complete List of Relative Pronouns**
 Relative pronouns introduce relative clauses and help provide more information about a noun.
@@ -126,6 +123,3 @@ Relative adverbs introduce relative clauses that describe **time, place, or reas
 ✅ **Where** – for place.  
 ✅ **Why** – for reason.  
 
----
-
-Would you like me to add **more exercises** or **simplify** any parts for your student? 😊
